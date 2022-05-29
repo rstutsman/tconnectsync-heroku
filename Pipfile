@@ -6,7 +6,7 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-setuptools = ">= 39.1.0"
+setuptools = ">= 60.10.0"
 flask = "*"
 tconnectsync = ">= 0.7.1"
 flask-apscheduler = {git = "https://github.com/viniciuschiele/flask-apscheduler"}
